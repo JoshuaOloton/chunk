@@ -12,3 +12,4 @@ Split an audio file into different chunks where silence is identified
 
 
 You can pass an additional `seconds_waiting` parameter. This is the minimum amount of time in seconds for a part of the audio to be classified as silence.
+.
